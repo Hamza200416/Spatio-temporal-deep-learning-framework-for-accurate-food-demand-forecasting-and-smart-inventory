@@ -12,6 +12,7 @@ bash
 # For Windows
 python -m venv venv
 venv\Scripts\activate
+bash pip install numpy pandas matplotlib scikit-learn tensorflow Run the System bash python food_demand_system.py Alternative: Using Jupyter Notebook Install Jupyter bash pip install jupyter Launch Jupyter bash jupyter notebook Open and run the food_demand_system.py file
 # For Mac/Linux
 python3 -m venv venv
 source venv/bin/activate
